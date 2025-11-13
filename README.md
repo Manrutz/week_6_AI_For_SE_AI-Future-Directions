@@ -76,6 +76,7 @@ Full IoT architecture (Edge ➜ Gateway ➜ Cloud)
 Sensors list (practical hardware)
 
 📁 Repository Structure
+
 ai-future-directions/
 │
 ├── notebooks/
