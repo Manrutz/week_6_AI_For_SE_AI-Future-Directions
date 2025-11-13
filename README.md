@@ -3,28 +3,14 @@ Pioneering Tomorrow’s AI Innovations
 
 Student: Remmy Kipruto Tumo
 
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
 Edge AI Recyclables Classifier
 
 Lightweight MobileNetV2 model → TensorFlow Lite → Real-time inference on Raspberry Pi
 
-<img src="https://img.icons8.com/color/96/000000.png"/>
 Smart Agriculture AI-IoT Concept
 
 Sensor-based crop yield prediction with LightGBM + Data Flow Architecture
-
-<img src="https://img.icons8.com/color/96/000000/tractor.png"/> </div>
 📚 Table of Contents
 
 📌 Project Overview
