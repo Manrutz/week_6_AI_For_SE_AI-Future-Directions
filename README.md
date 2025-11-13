@@ -3,7 +3,7 @@ Pioneering Tomorrow’s AI Innovations
 
 Student: Remmy Kipruto Tumo
 
-<div align="center">
+<div align="Left">
 Edge AI Recyclables Classifier
 
 Lightweight MobileNetV2 model → TensorFlow Lite → Real-time inference on Raspberry Pi
